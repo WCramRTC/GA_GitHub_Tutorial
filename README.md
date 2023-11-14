@@ -89,8 +89,9 @@ Lets break down where we see here
 - **Uncheck Private Repository**
 - **Click Create and Push**
 
-and Push`*** at the bottom of the window.
 
 You've have now added Git to your project.
 
 If it worked properly your ***Git Changes*** window will change. 
+
+![Step 3 Git Commit](Images/Step_3_GitCommit.png)
