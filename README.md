@@ -134,3 +134,21 @@ To ***`Commit`*** our changes to Git. You will enter in a message explaining the
 ![Step 4 Add Message](Images/Step_4_AddMessage.png)
 
 `Program.cs` should now be gone from underneath ***Changes***.
+
+
+---
+
+### Step 5
+
+Now we ***`Commited`*** our changes, we can ***`Push`*** those changes online.
+
+`Do This`
+![Step 5 Push](Images/Step_5_Push.png)
+
+In the upper right corner of our **Git Changes Window**, you will find a Up arrow. This is the push button.
+
+> What is ***`push`***?
+>
+> Push is the git term for uploading our current project repositories locally, online to GitHub
+
+***Click The Push Button***
