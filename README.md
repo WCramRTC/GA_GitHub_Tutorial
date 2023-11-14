@@ -1,7 +1,7 @@
 # GA_GitHub_Tutorial
 
 ### Step 1
-`Do This`
+`Code This`
 
 >Replace "Hello, World" with the message   
 > ***I"m about to learn how to use Git and GitHub***
@@ -18,7 +18,7 @@
 
 ### Step 2
 
-`Do This`
+`Code This`
 
 > Now add in separate `Console.WriteLines()` add the following messages. Make sure to add a new Line in between each to give them space. `\n`
 
@@ -30,7 +30,7 @@
 
 ![Step 2 Run](Images/Step_2_Run.png)
 
-`Process`
+`Do This`
 
 Now on the top menu click **View** and Click `Git Changes`
 
@@ -42,7 +42,7 @@ This will open a new window called `Git Changes`.
 
 ### Step 3
 
-`Do This`
+`Code This`
 
 > In add the following messages to your code
 
@@ -54,7 +54,7 @@ This will open a new window called `Git Changes`.
 
 ---
 
-`Process`
+`Do This`
 ### Click "Create Git Repository"
 
 ![Step 3 Create Repo Window](Images/Step_3_CreateRepoWindow.PNG)
@@ -166,4 +166,42 @@ To see everything come together click on the 3 dots to the right of the ***`Push
 ![Step 5 Open In Browser](Images/Step_5_OpenInBrowser.gif)
 
 
+This will open your web browser and bring your direction to your GitHub respository online. You should see all the files in your project. You can even click on files and see the code inside of them.
 
+*This is the current project I have been building for this tutorial. Your projects will have different files depending on what's in it.*
+
+
+![Step 5 Repo Online](Images/Step_5_RepoOnline.png)
+
+---
+
+### Repeat - Commit and Push
+
+`Code This`
+
+> Add these messages
+>
+> - My git workflow, once I have added Git to my project is
+> - Save my project
+> - Commit my changes
+> - Push my Project
+
+`Do This`
+
+Now
+- Save
+- Commit
+- And Push
+
+
+### And that's it! You have added Git to your project, saved and committed your changes, and pushed your code online.
+
+Why do this?
+
+- Working with Version Control Systems ( Which is what Git is ), allows your code to easily be shared and backed up
+- VCS are used everywhere in our industry. Git and GitHub are the largest, but there are others. What matters is you know at least on.
+- GitHub is like cloud storage. It's where you save your project and backs while working.
+- It is also our portfolio. When applying for jobs, Employeers will look at your github to see what projects you work on, the quality of your code, and what your interests are.
+- We will also be submitting our assignments with GitHub.
+
+Getting started with Git sooner than later will be a huge benefit to your career.
