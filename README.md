@@ -125,4 +125,12 @@ Since we've ***Updated and Saved our `Program.cs` file*** we can see our `Progra
 
 > Committing is when we tell Git to remember our new changes. Think of it like saving a current copy of the project. Except it's not saving the FULL project again. It is only keeping track of the changes between now and our last commit.
 
+To ***`Commit`*** our changes to Git. You will enter in a message explaining the changes you made to your code in the Message TextBox. Following by clicking the ***`Commit All`*** button.
 
+- In the MessageBox in our Git Changes window, type the message
+    - **Add New Messages to Program.cs**
+- Then click the ***`Commit All`*** button beneath the box.
+
+![Step 4 Add Message](Images/Step_4_AddMessage.png)
+
+`Program.cs` should now be gone from underneath ***Changes***.
