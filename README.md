@@ -163,3 +163,7 @@ If everyone goes smoothly you should have a message that say
 
 To see everything come together click on the 3 dots to the right of the ***`Push`*** button. And click ***Open In Browser***.
 
+![Step 5 Open In Browser](Images/Step_5_OpenInBrowser.gif)
+
+
+
