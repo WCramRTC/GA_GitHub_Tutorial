@@ -1,7 +1,7 @@
 # GA_GitHub_Tutorial
 
 ### Step 1
-`Code This`
+`Do This`
 
 >Replace "Hello, World" with the message   
 > ***I"m about to learn how to use Git and GitHub***
@@ -18,7 +18,7 @@
 
 ### Step 2
 
-`Code This`
+`Do This`
 
 > Now add in separate `Console.WriteLines()` add the following messages. Make sure to add a new Line in between each to give them space. `\n`
 
@@ -42,7 +42,7 @@ This will open a new window called `Git Changes`.
 
 ### Step 3
 
-`Code This`
+`Do This`
 
 > In add the following messages to your code
 
@@ -95,3 +95,27 @@ You've have now added Git to your project.
 If it worked properly your ***Git Changes*** window will change. 
 
 ![Step 3 Git Commit](Images/Step_3_GitCommit.png)
+
+---
+
+### Step 4
+
+You only have to **Add Git Once** to your project. Now we will learn the next 2 steps: ***`Commit`*** and ***`Push`***.
+
+`Do This`
+
+> Add these messages
+>
+> - I have added Git to my project.
+> - I can now start committing my changes
+> - Committing is how we tell Git to remember what changes I've made.
+> - I can easily do this by Adding a Message and clicking commit in the Git Changes window
+
+***Save and Run***
+
+`Do This`
+
+Now that we've changed our `Program.cs` file, lets look at our **Git Changes** window.
+
+![Step 4 Git Changes Update](Images/Step_4_GitChangesUpdate.png)
+
