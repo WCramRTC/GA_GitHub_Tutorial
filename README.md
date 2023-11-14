@@ -57,9 +57,7 @@ This will open a new window called `Git Changes`.
 `Do This`
 ### Click "Create Git Repository"
 
-![Step 3 Create Repo Window](Images/Step_3_CreateRepoWindow.PNG)
-
-
+![Step 3 Create Repo Window Edit](Images/Step_3_CreateRepoWindow_Edit.PNG)
 
 
 Lets break down where we see here
