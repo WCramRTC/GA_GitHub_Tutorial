@@ -117,5 +117,12 @@ You only have to **Add Git Once** to your project. Now we will learn the next 2 
 
 Now that we've changed our `Program.cs` file, lets look at our **Git Changes** window.
 
-![Step 4 Git Changes Update](Images/Step_4_GitChangesUpdate.png)
+![Step 4 Changes Update](Images/Step_4_ChangesUpdate.png)
+
+Since we've ***Updated and Saved our `Program.cs` file*** we can see our `Program.cs` file listed under ***Changes***. This mean we have updates we can ***`Commit`*** to our **Git**.
+
+> ***What is committing?***
+
+> Committing is when we tell Git to remember our new changes. Think of it like saving a current copy of the project. Except it's not saving the FULL project again. It is only keeping track of the changes between now and our last commit.
+
 
