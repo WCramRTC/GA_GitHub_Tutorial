@@ -102,7 +102,7 @@ If it worked properly your ***Git Changes*** window will change.
 
 You only have to **Add Git Once** to your project. Now we will learn the next 2 steps: ***`Commit`*** and ***`Push`***.
 
-`Do This`
+`Code This`
 
 > Add these messages
 >
