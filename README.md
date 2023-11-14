@@ -79,7 +79,7 @@ Lets break down where we see here
 	- Unchecked: Your repository is public and can be seen by others.
 
 **Push you code to GitHub**
-- A web url: This is the internet address for your github repository. If you go to this location, you will see your repository. You can also find this by going to www.github.com. 
+- A web url: This is the internet address for your GitHub repository. If you go to this location, you will see your repository. You can also find this by going to www.github.com. 
 
 ---
 
@@ -140,7 +140,7 @@ To ***`Commit`*** our changes to Git. You will enter in a message explaining the
 
 ### Step 5
 
-Now we ***`Commited`*** our changes, we can ***`Push`*** those changes online.
+Now we ***`Committed`*** our changes, we can ***`Push`*** those changes online.
 
 `Do This`
 ![Step 5 Push](Images/Step_5_Push.png)
@@ -152,3 +152,14 @@ In the upper right corner of our **Git Changes Window**, you will find a Up arro
 > Push is the git term for uploading our current project repositories locally, online to GitHub
 
 ***Click The Push Button***
+
+![Step 5 Push Successful](Images/Step_5_PushSuccessful.png)
+
+If everyone goes smoothly you should have a message that say
+
+> Successfully pushed to origin/main
+
+> origin refers to GitHub, main refers to the branch were on. Those will be discussed at a later time.
+
+To see everything come together click on the 3 dots to the right of the ***`Push`*** button. And click ***Open In Browser***.
+
