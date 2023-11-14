@@ -78,11 +78,18 @@ Lets break down where we see here
     - Checked: Your repository cannot be seen by anyone else.
 	- Unchecked: Your repository is public and can be seen by others.
 
+**Push you code to GitHub**
+- A web url: This is the internet address for your github repository. If you go to this location, you will see your repository. You can also find this by going to www.github.com. 
+
 ---
 
-**Make sure Add README.md is checked, and Private Repository is unchecked**
+### For Your Projects
 
-Now click ***`Create and Push`*** at the bottom of the window.
+- **Check Add README.md**
+- **Uncheck Private Repository**
+- **Click Create and Push**
+
+and Push`*** at the bottom of the window.
 
 You've have now added Git to your project.
 
